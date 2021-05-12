@@ -1,2 +1,2 @@
-# niaveBayes
+# NaiveBayes
 Naive Bayes
